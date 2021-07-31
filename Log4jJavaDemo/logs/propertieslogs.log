@@ -1,0 +1,5 @@
+[INFO ] 2021-06-17 12:53:38.369 [main] Demo4j - This is info log Demo4j1.
+[DEBUG] 2021-06-17 12:53:38.373 [main] Demo4j - This is debug log Demo4j1.
+[ERROR] 2021-06-17 12:53:38.373 [main] Demo4j - This is error log Demo4j1.
+[FATAL] 2021-06-17 12:53:38.373 [main] Demo4j - This is fatal log Demo4j1.
+[WARN ] 2021-06-17 12:53:38.374 [main] Demo4j - This is warn log Demo4j1.
